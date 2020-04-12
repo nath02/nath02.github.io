@@ -15,6 +15,7 @@ jQuery(function($) {
 				$('.intro-tables').addClass('animated fadeInUp').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend');
 			});
 		});
+		
 
 		// Header Init
 		if ($(window).height() > $(window).width()) {
